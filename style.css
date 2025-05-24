@@ -7,9 +7,21 @@ padding: 20px;
 
 }
 
-h1, h2, h3 {
-    color: #2c3e50;
+h1 {
+  font-size: 22px;
+  color: darkblue;
 }
+
+h2 {
+  font-size: 18px;
+  color: darkgreen;
+}
+
+h3 {
+  font-size: 14px;
+  color: darkred;
+}
+
 p {
     line-height: 1.6;
 }
