@@ -120,3 +120,11 @@ button:hover {
 #more-articles li {
   margin-bottom: 6px;
 }
+
+.author-img {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  vertical-align: middle;
+  margin-right: 6px;
+}
